@@ -1,0 +1,1 @@
+export default function Page() { return <div>Inhalt folgt...</div>; }
