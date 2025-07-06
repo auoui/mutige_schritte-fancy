@@ -16,7 +16,7 @@ export default function Home() {
 
       <div className="ueber-mich">
         <h2>Über mich</h2>
-        <p className="zitat">„Meine Heldenreise hat mir deutlich gemacht, weshalb ich in meinem Leben bisher so viele unterschiedliche Dinge lernen wollte. Ich habe während meiner Reise das letzte Puzzleteil gefunden, welches mir noch gefehlt hatte, um alles miteinander zu verbinden. Die Heldenreise ist für mich, mein inneres Strahlen in Verbindung mit anderen zu bringen und die Erfahrung, dass Verbindung auch Vertrauen bedeuten kann. Selbsterfahrungsprozesse zu unterstützen bedeutet für mich, deutlich w...
+        <p className="zitat">„Meine Heldenreise hat mir deutlich gemacht, weshalb ich in meinem Leben bisher so viele unterschiedliche Dinge lernen wollte. Ich habe während meiner Reise das letzte Puzzleteil gefunden, welches mir noch gefehlt hatte, um alles miteinander zu verbinden. Die Heldenreise ist für mich, mein inneres Strahlen in Verbindung mit anderen zu bringen und die Erfahrung, dass Verbindung auch Vertrauen bedeuten kann. Selbsterfahrungsprozesse zu unterstützen bedeutet für mich, deutlich werden zu lassen, wie du dir selbst die Erlaubnis geben kannst, dein Leben so zu führen, wie du es möchtest.“</p>
       </div>
 
       <div className="angebote">
